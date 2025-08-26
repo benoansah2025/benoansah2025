@@ -33,3 +33,13 @@ Full Stack Web & Mobile Developer | AWS CCP | Upcoming AWS SAA | Upcoming Data E
 <a href="http://www.github.com/benoansah2025"><img src="https://github-readme-streak-stats.herokuapp.com/?user=benoansah2025&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/benoansah2025" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benoansah2025&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/benoansah2025/speed-microfinance-website.git" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=benoansah2025&repo=speed-microfinance-website.git&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/benoansah2025/email-phishing-app.git" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=benoansah2025&repo=email-phishing-app.git&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/benoansah2025/option-oasis-polls.git" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=benoansah2025&repo=option-oasis-polls.git&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
+P
