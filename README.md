@@ -1,6 +1,6 @@
 # Hi there, I'm Benjamin Ofori-Ansah! 👋
 
-![Banner Image]( )
+![Banner Image]( https://github.com/benoansah2025/benoansah2025/blob/main/github%20banner.jpg)
 
 ## About Me 🚀
 
